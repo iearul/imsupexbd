@@ -1,0 +1,1 @@
+[21-Dec-2015 16:29:53 Asia/Dacca] PHP Fatal error:  Call to undefined function simple_php_captcha() in /home/iearul/public_html/czit/imsufex/CoreZ IT/modules/contact/views/index.php on line 4
